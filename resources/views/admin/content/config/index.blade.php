@@ -70,6 +70,7 @@
 
                 <div class="col-sm-offset-2">
                     <button type="submit" class="btn btn-success">Lưu</button>
+                    @csrf
                 </div>
             </form>
         </div>

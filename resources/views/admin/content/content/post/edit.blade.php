@@ -80,7 +80,7 @@
     <script src="{{ asset('/vendor/laravel-filemanager/js/lfm.js') }}"></script>
     <script type="text/javascript">
         $(document).ready(function () {
-            $('.lfm-btn').filemanager('image', {'prefix':'http://localhost/laz.tuto/authen/public/laravel-filemanager'});
+            $('.lfm-btn').filemanager('image', {'prefix':'http://localhost/codeauthen/public/laravel-filemanager'});
         });
     </script>
 
